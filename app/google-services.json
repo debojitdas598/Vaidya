@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "949144664137",
+    "firebase_url": "https://vaidya-133eb-default-rtdb.firebaseio.com",
+    "project_id": "vaidya-133eb",
+    "storage_bucket": "vaidya-133eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949144664137:android:fc172582e0df55d136e798",
+        "android_client_info": {
+          "package_name": "com.example.vaidya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxGKhdSxbcNe_5NbiItVFXWws3MlTJFtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

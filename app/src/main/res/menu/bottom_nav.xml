@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/homebutton"
+        app:cnb_textColor="@color/white"
+        app:cnb_iconColor="@color/white"
+        app:cnb_iconTintMode="src_in"
+        app:cnb_backgroundColor="@color/green"
+        android:iconTint="@color/black"/>
+
+    <item android:id="@+id/doctorbutton"
+        android:title="Doctor"
+        android:icon="@drawable/doctorbutton"
+        app:cnb_textColor="@color/white"
+        app:cnb_iconColor="@color/white"
+        app:cnb_iconTintMode="src_in"
+        app:cnb_backgroundColor="@color/green"
+        android:iconTint="@color/black"/>
+
+    <item android:id="@+id/servicesbutton"
+        android:title="Services"
+        android:icon="@drawable/servicesbutton"
+        app:cnb_textColor="@color/white"
+        app:cnb_iconColor="@color/white"
+        app:cnb_iconTintMode="src_in"
+        app:cnb_backgroundColor="@color/green"
+        android:iconTint="@color/black"/>
+
+    <item android:id="@+id/userbutton"
+        android:title="User"
+        android:icon="@drawable/userbutton"
+        app:cnb_textColor="@color/white"
+        app:cnb_iconColor="@color/white"
+        app:cnb_iconTintMode="src_in"
+        app:cnb_backgroundColor="@color/green"
+        android:iconTint="@color/black"/>
+
+</menu>
